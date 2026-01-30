@@ -1,9 +1,7 @@
 name: Daily AI Agent
 
 on:
-  schedule:
-    - cron: '0 8 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual trigger
 
 jobs:
   run-agent:
@@ -35,5 +33,5 @@ jobs:
           git config --global user.name 'AI Agent Bot'
           git config --global user.email 'bot@noreply.github.com'
           git add content/
-          git commit -m "New daily article generated [skip ci]" || echo "No changes to commit"
+          git commit -m "New article" || echo "No changes"
           git push
