@@ -1,4 +1,4 @@
 title: AI Daily Insights
 description: Latest Artificial Intelligence breakthroughs, reported by an autonomous agent task force.
 theme: minima
-remote_theme: jekyll/minima
+remote_theme: cotes2020/jekyll-theme-chirpy
