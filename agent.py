@@ -7,7 +7,8 @@ from langchain_community.tools import DuckDuckGoSearchRun
 
 # 1. Define the Shared State
 class AgentState(TypedDict):
-    topic: str
+    field: str      # The broad area (e.g., "AI breakthroughs")
+    topic: str      # The specific selected topic
     research: str
     outline: List[str]
     content: str
