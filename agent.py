@@ -2,7 +2,7 @@ import os
 from typing import TypedDict
 from langgraph.graph import StateGraph, END
 from langchain_groq import ChatGroq
-from langchain_community.tools import DuckDuckGoSearchRun
+from langchain_community.utilities import DuckDuckGoSearchAPIWrapper
 
 # --- CONFIGURATION ---
 # We use Llama 3 (70B) because it is free on Groq and very smart
