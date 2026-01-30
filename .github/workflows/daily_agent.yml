@@ -23,7 +23,7 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install langchain langchain-community langchain-groq langgraph duckduckgo-search
+          pip install langchain langchain-community langchain-groq langgraph duckduckgo-search==6.3.3
 
       - name: Run Agent
         env:
