@@ -1,0 +1,38 @@
+name: Daily AI Agent
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs every day at 8:00 AM UTC
+  workflow_dispatch:      # Allows you to click a "Run Now" button manually
+
+jobs:
+  run-agent:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Gives permission to save the article to your repo
+      
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Tools
+        run: |
+          pip install langchain langchain-groq langgraph duckduckgo-search
+
+      - name: Run the Agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python agent.py
+
+      - name: Save the Article
+        run: |
+          git config --global user.name 'AI Agent Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add content/
+          git commit -m "New daily article generated [skip ci]" || echo "No changes to commit"
+          git push
