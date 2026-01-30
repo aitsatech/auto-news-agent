@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install langchain langchain-community langchain-groq langgraph duckduckgo-search==6.3.3 requests
+          pip install langchain langchain-community langchain-groq langgraph duckduckgo-search ddgs pydantic requests
 
       - name: Run Agent Task Force
         env:
