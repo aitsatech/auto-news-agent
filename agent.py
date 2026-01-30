@@ -6,7 +6,7 @@ from langchain_community.tools import DuckDuckGoSearchRun  # <--- Check this lin
 
 # --- CONFIGURATION ---
 # We use Llama 3 (70B) because it is free on Groq and very smart
-llm = ChatGroq(temperature=0, groq_api_key=os.environ["GROQ_API_KEY"], model_name="llama3.3-70b-versatile")
+llm = ChatGroq(temperature=0, groq_api_key=os.environ["GROQ_API_KEY"], model_name="llama-3.3-70b-versatile")
 search = DuckDuckGoSearchRun()
 
 # --- DEFINE THE FOLDER (STATE) ---
