@@ -22,7 +22,7 @@ jobs:
 
       - name: Install Tools
         run: |
-          pip install langchain langchain-groq langgraph duckduckgo-search
+          run: pip install langchain langchain-groq langchain-community duckduckgo-search
 
       - name: Run the Agent
         env:
