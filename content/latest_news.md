@@ -1,124 +1,138 @@
-![Featured Image](https://image.pollinations.ai/prompt/"Surreal-neon-cityscape-shattered-by-distorted-digital-echoes."?width=1280&height=720&nologo=true&seed=991)
+![Featured Image](https://image.pollinations.ai/prompt/"Neon-dystopia:-AI-awakens,-reshaping-global-destiny."?width=1280&height=720&nologo=true&seed=184)
 
-# The Erosion of Trust: How AI-Generated Deepfakes Will Revolutionize and Threaten Society in 2026
+# Artificial Intelligence to Reshape Nearly Every Aspect of Our Lives in 2026: Autonomous Agents, Global Geopolitics, and Beyond
 
-> * The current state of deepfake technology poses a significant threat to society, with potential consequences including erosion of trust in online information, increased risk of fraud, and destabilization of societies.
-> * To mitigate these risks, it is essential to develop effective detection practices, promote media literacy, and prioritize provenance-based solutions that verify the origin and authenticity of digital content.
-> * The future of deepfake technology is uncertain, with potential for both positive and negative applications, and addressing the legal risks and consequences associated with its use will be crucial to minimizing its harmful effects.
+> The future of Artificial Intelligence in 2026 will be shaped by several key trends. Here are three key takeaways:
+* Agentic AI, Physical AI, and Sovereign AI will transform industries and revolutionize various facets of our lives, with autonomous agents managing daily tasks and significant disruptions in global geopolitics.
+* AI will impact nearly every part of life, from healthcare and education to the economy and society at large, and will reshape the global power balance, creating new opportunities and challenges.
+* International cooperation and governance will be necessary to ensure that AI development and deployment are aligned with human values and interests, and to address concerns about authenticity, trust, and the need for global dialogue and cooperation.
 
 
 
-**The current state of deepfake technology is rapidly evolving, with significant advancements in AI-generated media, voice cloning, and multimodal scams, which are eroding trust in online information and posing a national security threat.**
-The impact of deepfake technology on society is multifaceted, with concerns surrounding the spread of misinformation, manipulation of public opinion, and destabilization of societies. Key areas of concern include:
-* Erosion of trust in online information and institutions
-* Increased risk of fraud and financial losses, with predicted growth from $12.3 billion in 2023 to $40 billion by 2027
-* Potential for deepfakes to be used to divide and destabilize societies, sway public opinion, and influence elections.
+## What Trends Will Shape the Future of Artificial Intelligence in 2026?
+**The future of Artificial Intelligence in 2026 will be shaped by trends such as Agentic AI, Physical AI, and Sovereign AI, which are expected to transform industries and revolutionize various facets of our lives.** 
+These trends will have a significant impact on how we live and work, with autonomous agents managing daily tasks and significant disruptions in global geopolitics. The rise of AI will also lead to the creation of new opportunities and challenges, including the need for international cooperation to shape the future of AI.
 
-**The consequences of deepfake technology are far-reaching, with 91.8% of respondents concerned about deepfakes being used to deceive the public.**
-To mitigate the risks posed by deepfakes, it is essential to develop and implement effective detection practices, cultivate skepticism towards viral or AI-generated content, and promote media literacy. Additionally, governments and organizations must prioritize the development of provenance-based solutions, which focus on verifying the origin and authenticity of digital content. This can be achieved through:
-1. Investing in AI-powered detection tools
-2. Establishing clear guidelines and regulations for the use of AI-generated media
-3. Promoting public awareness and education about the risks and consequences of deepfakes.
+Some of the key trends that will shape the future of AI in 2026 include:
+* Agentic AI, which refers to AI systems that can perform tasks autonomously
+* Physical AI, which involves the integration of AI with physical systems
+* Sovereign AI, which refers to AI systems that are designed to operate independently and make decisions without human intervention
+* AI-generated content, which is expected to become increasingly prevalent and raise concerns about authenticity and trust
 
-**The future of deepfake technology is uncertain, with potential for both positive and negative applications.**
-As deepfake technology continues to evolve, it is crucial to address the legal risks and consequences associated with its use, particularly in areas such as evidence evaluation and belief formation. Researchers and experts are working to develop new methods for detecting and mitigating the effects of deepfakes, including:
-* Improving AI-powered detection tools
-* Developing more effective methods for verifying the authenticity of digital content
-* Creating awareness campaigns to educate the public about the risks and consequences of deepfakes.
+Experts predict that by 2026, AI will impact nearly every part of life, from healthcare and education to the economy and society at large. **The development and deployment of AI will also reshape the global power balance, creating new opportunities and challenges.** 
+For example, Gartner predicts that 40% of enterprise applications will embed task-specific AI agents by 2026, evolving assistants into proactive workflow partners. Additionally, the use of AI in geopolitics will become more prominent, with some experts believing that it will bring epochal changes beyond any previous technology.
 
-**AI-generated deepfakes erode trust in online information and media by creating a heightened sense of uncertainty and skepticism among consumers, making it increasingly difficult to distinguish between authentic and manipulated content.**
-The proliferation of deepfakes has significant implications for the dissemination of information online, as it can be used to spread misinformation, manipulate public opinion, and undermine trust in institutions. Key concerns include:
-* Erosion of trust in online information and media
-* Increased risk of manipulation and disinformation
-* Challenges in distinguishing between authentic and manipulated content
+The future of AI in 2026 will also be shaped by the need for international cooperation and governance. **As AI becomes more pervasive, there will be a need for global dialogue and cooperation to ensure that its development and deployment are aligned with human values and interests.** 
+Some of the key areas that will require international cooperation include:
+1. AI governance: developing frameworks and regulations to ensure that AI is developed and deployed responsibly
+2. AI ethics: addressing concerns about bias, transparency, and accountability in AI systems
+3. AI education: providing training and education to ensure that people have the skills needed to work with AI systems
 
-The impact of deepfakes on trust in online information and media can be seen in various contexts, including:
-1. **Politics**: Deepfakes can be used to create fake speeches, interviews, or other forms of content that can be used to manipulate public opinion or undermine trust in political leaders.
-2. **Finance**: Hyper-realistic voice cloning and multimodal scams can be used to deceive investors or manipulate financial markets.
-3. **Social media**: Deepfakes can be used to spread misinformation, create fake news stories, or manipulate public opinion on social media platforms.
+Overall, the future of AI in 2026 will be shaped by a complex interplay of technological, social, and economic factors. **As AI continues to evolve and improve, it will be important to address the challenges and opportunities that it presents, and to ensure that its development and deployment are aligned with human values and interests.** 
+By 2026, AI will have transformed nearly every aspect of our lives, from autonomous agents managing daily tasks to significant disruptions in global geopolitics. The key trends that will shape the future of AI in 2026 will have a profound impact on how we live and work, and will require international cooperation and governance to ensure that its development and deployment are aligned with human values and interests.
 
-To mitigate the risks posed by AI-generated deepfakes, it is essential to develop and implement effective detection and prevention strategies, such as:
-* **Provenance**: Verifying the source and authenticity of online content
-* **Detection**: Developing AI-powered tools to detect and identify deepfakes
-* **Education**: Educating consumers about the risks and implications of deepfakes
-* **Regulation**: Establishing regulations and guidelines for the use of AI-generated content online
+## How Will Autonomous Agents Impact Daily Life and Global Geopolitics?
+**Autonomous agents will significantly impact daily life and global geopolitics in 2026 by transforming industries, redefining work, and creating new challenges and opportunities.** 
+The integration of autonomous agents in daily tasks will lead to increased efficiency and productivity, but also raise concerns about job displacement and ethical considerations. Key trends to watch in 2026 include the rise of Agentic AI, Physical AI, and Sovereign AI, which will transform industries and redefine the future of work.
 
-Research has shown that the consequences of deepfakes can be severe, with 91.8% of respondents concerned about deepfakes being used to deceive the public. Furthermore, experts predict that generative AI could drive U.S. fraud losses from $12.3 billion in 2023 to $40 billion by 2027, highlighting the need for urgent action to address the risks posed by deepfakes. **The solution lies in a multi-faceted approach that combines detection, education, and regulation to protect public trust and prevent the misuse of AI-generated content.**
+Some of the key areas where autonomous agents will have an impact include:
+* Healthcare: Autonomous agents will help with patient care, diagnosis, and treatment, leading to improved health outcomes and more efficient healthcare systems.
+* Education: Autonomous agents will enhance the learning experience, providing personalized education and adaptive learning platforms.
+* Economy: Autonomous agents will disrupt traditional industries, creating new opportunities for entrepreneurship and innovation, but also raising concerns about job displacement and economic inequality.
 
-**The potential consequences of deepfakes on national security, diplomacy, and finance are far-reaching and can lead to a significant erosion of trust, destabilization of societies, and substantial financial losses.**
-The use of deepfakes can have severe implications for national security, as they can be used to spread disinformation, create fake speeches or statements from world leaders, and inflame social tensions. This can lead to a breakdown in trust between governments and their citizens, as well as between nations. Some of the key concerns include:
-* Destabilization of societies through the spread of misleading content
-* Inflation of social tensions and creation of divisions
-* Potential for deepfakes to be used as a tool for espionage or sabotage
+The impact of autonomous agents on global geopolitics will be significant, with the development and deployment of AI reshaping the global power balance and creating new opportunities and challenges. 
+Experts predict that by 2026, 40% of enterprise applications will embed task-specific AI agents, evolving assistants into proactive workflow partners, and unstructured data will emerge as the backbone of AI innovation, redefining how enterprises harness intelligence across their organizations.
 
-The impact of deepfakes on diplomacy can be particularly significant, as they can be used to create fake statements or actions that can damage relationships between nations. For example:
-1. Fake speeches or statements from world leaders can be used to create tensions or conflicts
-2. Deepfakes can be used to create fake evidence of wrongdoing or misconduct
-3. The use of deepfakes can lead to a breakdown in trust between nations and international organizations
+The rise of autonomous agents will also raise important questions about ethics, governance, and international cooperation, with some experts predicting that AI will bring epochal changes beyond any previous technology, while others expect it to boost productivity and scientific discovery but follow a more uneven trajectory. 
+The Global Dialogue will likely play a crucial role in shaping the future of AI, with a focus on creating global governance frameworks that can balance the benefits and risks of autonomous agents.
 
-In terms of finance, the use of deepfakes can lead to significant losses, as they can be used to create fake financial statements, spread false information about companies or individuals, and manipulate markets. According to Deloitte, generative AI could drive U.S. fraud losses from $12.3 billion in 2023 to $40 billion by 2027. Some of the key risks include:
-* Creation of fake financial statements or documents
-* Spread of false information about companies or individuals
-* Manipulation of markets through the use of deepfakes
+In conclusion, the impact of autonomous agents on daily life and global geopolitics in 2026 will be profound, with far-reaching consequences for industries, societies, and individuals. 
+As autonomous agents become increasingly integrated into our daily lives, it is essential to consider the potential risks and benefits and to develop strategies for mitigating the negative consequences and maximizing the positive impacts. 
+By understanding the trends and challenges associated with autonomous agents, we can work towards creating a future where AI enhances human life and promotes global cooperation and prosperity.
 
-To mitigate these risks, it is essential to develop effective detection and prevention methods, as well as to promote awareness and education about the potential dangers of deepfakes. This can include:
-* Development of AI-powered detection tools
-* Implementation of robust security measures to prevent the creation and spread of deepfakes
-* Education and awareness campaigns to inform the public about the potential risks of deepfakes
+**Agentic AI, Physical AI, and Sovereign AI will play a transformative role in industries by revolutionizing daily tasks, disrupting global geopolitics, and redefining the future of work, healthcare, and society.**
+The impact of these AI trends will be felt across various sectors, including healthcare, education, and the economy. Key areas of transformation include autonomous agents, AI-generated content, and rising energy demands.
 
-Overall, the potential consequences of deepfakes on national security, diplomacy, and finance are significant, and it is essential to take proactive steps to mitigate these risks and promote a safer and more secure online environment. By understanding the potential dangers of deepfakes and taking steps to prevent their creation and spread, we can help to protect trust, stability, and security in these critical areas.
+**Key trends to watch in 2026 include:**
+* Agentic AI: enabling autonomous agents to manage daily tasks and workflows
+* Physical AI: integrating AI with physical systems to create embodied intelligence
+* Sovereign AI: redefining the global power balance and creating new opportunities and challenges
+These trends will reshape industries and create new possibilities, industries, and challenges. Experts predict that by 2026, AI will impact nearly every part of life, from autonomous agents to significant disruptions in global geopolitics.
 
-**Detection and provenance can mitigate some risks posed by deepfakes, but new solutions are also needed to fully address the issue.** 
-The rise of deepfakes has led to a heightened erosion of trust online, with 91.8% of respondents concerned about deepfakes being used to deceive the public. To combat this, researchers are exploring two dependent variables: levels of trust in government effectiveness and the impact of deepfakes on belief and memory formation. 
+The development and deployment of AI will also reshape the global power balance, creating new opportunities and challenges. **Some of the predicted outcomes include:**
+1. 40% of enterprise applications will embed task-specific AI agents by 2026
+2. Unstructured data will emerge as the backbone of AI innovation
+3. AI governance will become global in form but geopolitical in substance
+These predictions highlight the significant impact that Agentic AI, Physical AI, and Sovereign AI will have on industries and society as a whole.
 
-Key factors contributing to the risks posed by deepfakes include:
-* The ability of deepfakes to blur truth and fiction, challenging digital ethics and demanding stronger safeguards to protect public trust
-* The potential for deepfakes to be used to spread misinformation and manipulate public opinion
-* The erosion of trust in online information, as seen in Venezuela's political chaos where synthetic media spread misinformation rapidly
+As AI continues to evolve, it is expected to bring about epochal changes, boosting productivity and scientific discovery. **However, there are also challenges to be addressed, including:**
+* Ensuring international cooperation to shape the future of AI
+* Managing the uneven distribution of AI benefits and risks
+* Redefining the future of work, healthcare, and society in the face of AI-driven transformation
+By understanding these trends and challenges, we can better prepare for the transformative role that Agentic AI, Physical AI, and Sovereign AI will play in industries and society.
 
-Experts suggest that detection and provenance can help mitigate these risks, but new solutions are also needed. For example, Hany Farid, a professor of computer science at the UC Berkeley School of Information, notes that people are just as likely to say something real is fake as they are to say something fake is real, highlighting the need for more effective detection methods. 
+**The rise of AI-generated content and rising energy demands will significantly impact society in 2026, transforming various aspects of life, from daily tasks to global geopolitics, and creating new opportunities and challenges.**
+The impact of AI on society will be multifaceted, with effects on:
+* Economy: AI-generated content will change the way businesses operate and create new job opportunities
+* Healthcare: AI will improve diagnosis and treatment, but also raise concerns about data privacy and security
+* Education: AI will revolutionize the way we learn, with personalized learning experiences and automated grading systems.
 
-Some potential new solutions include:
-1. Developing more advanced detection methods, such as AI-powered tools that can identify deepfakes
-2. Implementing provenance standards to track the origin and authenticity of online content
-3. Educating the public about the risks of deepfakes and the importance of skepticism when consuming online information
+**Key trends in AI for 2026 include Agentic AI, Physical AI, and Sovereign AI, which will transform industries and redefine work, healthcare, and geopolitics.**
+These trends will have a significant impact on society, with:
+1. Autonomous agents managing daily tasks
+2. Significant disruptions in global geopolitics
+3. New opportunities for international cooperation and challenges for AI governance
+The development and deployment of AI will reshape the global power balance, creating new opportunities and challenges for nations and organizations.
 
-The consequences of not addressing the risks posed by deepfakes are significant, with Deloitte predicting that generative AI could drive U.S. fraud losses from $12.3 billion in 2023 to $40 billion by 2027. Governments and bad actors may also leverage deepfakes to divide, spread disinformation, and destabilize societies, making it essential to develop effective solutions to mitigate these risks. 
+**The rise of AI will also raise important questions about ethics, governance, and the future of work.**
+Experts predict that by 2026, 40% of enterprise applications will embed task-specific AI agents, evolving assistants into proactive workflow partners. Additionally, unstructured data will emerge as the backbone of AI innovation, redefining how enterprises harness intelligence across their organizations. As AI continues to advance, it will be important to address concerns about job displacement, bias, and accountability.
 
-Ultimately, a combination of detection, provenance, and education will be needed to fully address the risks posed by deepfakes and restore trust in online information. By understanding the risks and consequences of deepfakes, we can work towards developing more effective solutions to protect public trust and prevent the misuse of this technology.
+**In 2026, AI will impact nearly every part of life, from autonomous agents managing daily tasks to a looming flood of AI-generated content and rising energy demands.**
+The state of AI at the start of 2026 is characterized by rapid advances in agentic systems, embodied intelligence, and enterprise automation. As AI becomes more pervasive, it will be important to consider the potential risks and benefits, including the potential for superintelligence and the need for international cooperation on AI governance. By the end of 2026, the Global Dialogue will likely have made AI governance global in form but geopolitical in substance, marking a first test of whether international cooperation can meaningfully shape the future of AI.
 
-**The increasing use of generative AI and deepfakes will significantly influence elections, social stability, and public trust by eroding trust in online information, spreading misinformation, and manipulating public opinion.**
-The amalgam of misinformation and authentic evidence is creating a heightened erosion of trust online, especially when it mixes with authentic evidence. To mitigate the risks posed by AI technologies like deepfakes, it is essential to investigate the levels of trust in government effectiveness and the perceived effectiveness of institutions. Key factors to consider include:
-* The impact of deepfakes on belief and memory formation
-* The evaluation of evidence within legal contexts
-* The role of provenance in detecting and preventing the spread of misinformation
+## Can International Cooperation Meaningfully Shape the Future of AI Governance and Regulation?
+**International cooperation is crucial in shaping the future of AI governance and regulation, as it enables the creation of unified standards and guidelines that can mitigate the risks associated with AI development and deployment.** 
+The need for cooperation is driven by the rapid advancement of AI technologies, which is expected to reshape nearly every aspect of our lives by 2026, with trends such as Agentic AI, Physical AI, and Sovereign AI transforming industries and creating new challenges. Key areas of focus for international cooperation include data privacy, cybersecurity, and ethical AI development.
 
-The use of deepfakes and manipulated content is evolving from a novelty to a national security threat, with hyper-realistic voice cloning and multimodal scams eroding trust in diplomacy and finance. According to recent research, people are just as likely to say something real is fake as they are to say something fake is real, highlighting the need for effective detection practices and skepticism toward viral or AI-generated content. A survey found that 91.8% of respondents are concerned about deepfakes being used to deceive the public, indicating a critical erosion of trust in media systems.
+Some of the key trends that international cooperation can address include:
+* Agentic AI, which enables autonomous agents to manage daily tasks and make decisions
+* Physical AI, which integrates AI with physical systems to create new products and services
+* Sovereign AI, which refers to the development and deployment of AI by nation-states to achieve strategic objectives. 
+These trends have significant implications for global governance and regulation, and international cooperation is essential to ensure that AI is developed and used in a responsible and beneficial manner.
 
-To address the risks associated with generative AI and deepfakes, it is essential to develop and implement robust safeguards to protect public trust. This can be achieved by:
-1. Promoting media literacy and critical thinking
-2. Encouraging transparency and accountability in online communication
-3. Developing and using AI-powered detection tools to identify and flag manipulated content
-4. Supporting fact-checking initiatives and independent media outlets
+The benefits of international cooperation on AI governance and regulation include:
+1. **Unified standards**: Cooperation enables the creation of unified standards and guidelines for AI development and deployment, which can help mitigate risks and ensure consistency across different countries and industries.
+2. **Shared knowledge**: International cooperation facilitates the sharing of knowledge and best practices, which can accelerate AI innovation and improve its applications.
+3. **Global governance**: Cooperation can help establish global governance frameworks that address the challenges and risks associated with AI, such as job displacement, bias, and cybersecurity threats. 
 
-The potential consequences of inaction are severe, with Deloitte predicting that generative AI could drive U.S. fraud losses from $12.3 billion in 2023 to $40 billion by 2027. Furthermore, governments and bad actors may leverage deepfakes to divide, spread disinformation, and destabilize societies, highlighting the need for urgent attention and action to mitigate these risks. By understanding the trends and implications of deepfake technology, we can work towards developing effective solutions to protect public trust and maintain social stability in the face of increasing AI-generated misinformation.
+However, international cooperation on AI governance and regulation also faces challenges, including:
+* **Competing interests**: Different countries and organizations may have competing interests and priorities, which can hinder cooperation and create conflicts.
+* **Technical complexity**: AI is a complex and rapidly evolving field, which can make it difficult to create effective regulations and standards.
+* **Geopolitical tensions**: Geopolitical tensions and rivalries can also hinder international cooperation on AI governance and regulation, as countries may be reluctant to share knowledge or collaborate with rivals. 
 
-**To protect themselves from the threats posed by AI-generated deepfakes in 2026, governments, organizations, and individuals must implement a multi-faceted approach that includes education, detection, and verification strategies.** 
-The rise of deepfakes has led to a heightened erosion of trust online, with 91.8% of respondents concerned about deepfakes being used to deceive the public. Governments and organizations can act as force multipliers in disseminating detection practices and cultivating skepticism toward viral or AI-generated content. 
+Despite these challenges, international cooperation on AI governance and regulation is essential to ensure that AI is developed and used in a responsible and beneficial manner. By working together, countries and organizations can create unified standards and guidelines, share knowledge and best practices, and establish global governance frameworks that address the challenges and risks associated with AI. As AI continues to reshape nearly every aspect of our lives by 2026, international cooperation will play a critical role in shaping its future and ensuring that its benefits are realized while minimizing its risks.
 
-Key steps to mitigate the risks include:
-* Implementing AI-powered detection tools to identify deepfakes
-* Establishing clear guidelines and regulations for the use of AI-generated content
-* Educating the public on the potential risks and consequences of deepfakes
-* Promoting media literacy and critical thinking skills to help individuals effectively evaluate online information. 
+**The potential risks and benefits of superintelligence and epochal changes brought about by AI include significant transformations in various aspects of life, ranging from autonomous agents and productivity boosts to geopolitical disruptions and ethical challenges.**
+The benefits of superintelligence and AI-driven epochal changes are numerous, including:
+* Enhanced productivity and scientific discovery
+* Improved healthcare and education outcomes
+* Increased efficiency in daily tasks and workflows
+The potential risks, however, are also substantial, and include concerns about job displacement, biased decision-making, and loss of human agency.
 
-The use of deepfakes can have severe consequences, including the erosion of trust in institutions and the spread of misinformation, with potential losses estimated to reach $40 billion by 2027. Governments and organizations must prioritize the development of effective detection and verification methods, such as provenance, to combat the threat of deepfakes. 
+The development and deployment of AI will reshape the global power balance, creating new opportunities and challenges, particularly in the areas of:
+1. Geopolitics: AI will influence international relations and global governance
+2. Ethics: AI raises important questions about accountability, transparency, and fairness
+3. Economy: AI will disrupt traditional industries and create new ones, leading to significant economic changes
+As AI continues to advance, it is essential to consider the potential risks and benefits of superintelligence and epochal changes, and to develop strategies for mitigating the negative consequences while maximizing the benefits.
 
-Individuals can also take steps to protect themselves, including:
-1. Being cautious when consuming online content, especially if it seems too good (or bad) to be true
-2. Verifying information through multiple sources before accepting it as true
-3. Supporting organizations that prioritize media literacy and fact-checking. 
+Some experts predict that AI will bring about significant benefits, including:
+* Improved decision-making and problem-solving capabilities
+* Enhanced customer experiences and personalized services
+* Increased accessibility and inclusivity for marginalized groups
+However, others warn about the potential risks, such as:
+* Job displacement and economic disruption
+* Biased decision-making and discriminatory outcomes
+* Loss of human agency and autonomy
+By understanding the potential risks and benefits of superintelligence and AI-driven epochal changes, we can work towards creating a future where AI enhances human life while minimizing its negative consequences.
 
-By working together, governments, organizations, and individuals can reduce the risks associated with deepfakes and promote a more trustworthy online environment. The importance of addressing this issue cannot be overstated, as the consequences of inaction could be severe and long-lasting, with the potential to undermine trust in institutions and destabilize societies. 
-
-Ultimately, the solution to the deepfake problem lies in a combination of technology, education, and critical thinking, with a focus on promoting transparency, accountability, and media literacy. By prioritizing these efforts, we can mitigate the risks posed by deepfakes and create a more secure and trustworthy online environment. The future of online trust depends on our ability to effectively address the challenges posed by AI-generated deepfakes, and it is essential that we take immediate action to protect ourselves and our societies from these threats.
+The current state of AI in 2026 is characterized by significant advancements in areas such as agentic AI, physical AI, and sovereign AI, which are transforming industries and redefining work, healthcare, and geopolitics. As AI continues to evolve, it is essential to prioritize research and development in areas such as explainability, transparency, and accountability, to ensure that AI systems are aligned with human values and promote beneficial outcomes.
