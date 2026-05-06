@@ -1,161 +1,131 @@
-![Featured Image](https://image.pollinations.ai/prompt/Neon-circuits-swirling,-surpassing-human-innovation-exponentially.?width=1280&height=720&nologo=true&seed=597)
+![Featured Image](https://image.pollinations.ai/prompt/Neon-circuits-pulsing-with-autonomous-code.?width=1280&height=720&nologo=true&seed=573)
 
-# Generative AI Surpasses Human Creativity: A Deep Dive into the Latest Breakthroughs and Implications
+# AI Now Generates Over 65% of Snap's New Code, Revolutionizing Software Development and Paving the Way for Autonomous Systems
 
-> * Generative AI has reached a point where it can outperform humans on certain creativity tests, but its ability to replicate human creativity is still a subject of ongoing research and debate.
-* The key benefits of generative AI include accelerating scientific breakthroughs, assisting in art and design, and potentially driving innovation in various industries.
-* Despite its potential, generative AI has limitations, such as the lack of guarantee that its suggestions will be helpful or secure, and the need for human-driven early creative stages to achieve optimal results.
+> * Snap is leveraging AI in software development, with AI agents generating over 65% of new code and responding to over 1 million queries per month.
+> * The integration of AI tools has led to increased efficiency, reduced need for large engineering teams, and expected annualized cost savings of over $500 million by 2026.
+> * The use of AI in software development at Snap has raised questions about product quality and human oversight, but the company is focused on ensuring AI alignment with its business goals and values.
 
 
 
-## What is Generative AI and How Does it Compare to Human Creativity?
-**Generative AI has reached a point where it can outperform the average human on certain creativity tests, but its ability to replicate human creativity is still a subject of ongoing research and debate.** 
-Recent studies have shown that generative AI can beat humans on established measures of creativity, with one study involving over 100,000 human participants and the world's leading generative AI models. The key findings of these studies include:
-* Generative AI can outperform humans on certain creativity tests, such as divergent and convergent thinking assessments
-* The "generate-and-select" approach is necessary for generative AI to surpass human creativity levels
-* Human-driven early creative stages, with AI assistance in scaling, editing, or selection, are crucial for optimal results
+**The current state of AI in software development at Snap is that AI agents are now generating over 65% of its new code and responding to over 1 million queries per month.** 
+This milestone has drastically reduced the need for large engineering teams, allowing the company to assign work to smaller, highly focused teams while increasing AI agent capabilities. As a result, Snap expects to deliver over $500 million in annualized cost savings by the second half of 2026.
 
-The comparison between generative AI and human creativity has been explored in various studies, with some key differences emerging. 
-For instance, while generative AI can produce a large volume of ideas, human creativity is often characterized by its ability to produce novel and valuable ideas. 
-Additionally, human creativity is often driven by intuition, emotions, and personal experiences, which are still difficult to replicate with generative AI.
+Key benefits of AI in software development at Snap include:
+* Increased efficiency and productivity
+* Reduced need for large engineering teams
+* Enhanced performance and progress driven by smaller teams
+* Significant cost savings, with expected annualized savings of over $500 million.
 
-The implications of generative AI on human creativity are significant, with potential applications in various industries, such as art, design, and science. 
-However, there are also concerns about the potential limitations and risks of relying on generative AI, such as the lack of guarantee that its suggestions will be helpful or secure. 
-To mitigate these risks, researchers are exploring the development of modular cognitive systems, which combine multiple models to generate, verify, and check the safety of ideas.
+The integration of AI tools, such as Claude, into Snap's workflow has been a major factor in this shift, with CEO Evan Spiegel noting that AI is already reshaping how companies build products and allocate resources. This has led to a reallocation of resources away from software engineering and towards distribution to drive faster growth.
 
-Some of the key benefits of generative AI include:
-1. **Accelerating scientific breakthroughs**: Generative AI can assist scientists in making more informed decisions and generating plausible research designs.
-2. **Stimulating creative thinking**: Generative AI can help humans generate new ideas and explore different perspectives.
-3. **Solving complex challenges**: Generative AI can be used to analyze complex problems and generate potential solutions.
+The use of AI in software development at Snap has also raised questions about product quality and human oversight, with some concerns that the increased reliance on AI may compromise the quality of the code being generated. However, the company's focus on increasing AI agent capabilities and assigning critical work to focused teams and AI agents suggests that it is committed to ensuring that the use of AI is aligned with its business goals and values.
 
-Overall, the relationship between generative AI and human creativity is complex and multifaceted, with both opportunities and challenges arising from the increasing capabilities of generative AI. 
-As research continues to evolve, it is likely that we will see new applications and innovations emerge, as well as a deeper understanding of the potential benefits and limitations of generative AI. 
-By combining the strengths of human creativity with the capabilities of generative AI, we can unlock new possibilities and drive progress in various fields.
+Some of the key statistics that illustrate the current state of AI in software development at Snap include:
+1. Over 65% of new code is generated or significantly assisted by AI tools
+2. AI agents respond to over 1 million queries per month
+3. Expected annualized cost savings of over $500 million by the second half of 2026
+4. Reduction in the need for large engineering teams, with a focus on smaller, highly focused teams.
 
-**Researchers are measuring the creative ability of generative AI models through various studies and benchmarks, including comparisons with human participants on established measures of creativity, such as divergent and convergent thinking assessments.** 
-These studies have shown that generative AI can now outperform the average human on certain creativity tests, with some models achieving creativity levels comparable to those of humans. 
-The use of benchmarks like the Alternate Uses test and the OSWorld-V benchmark has allowed researchers to evaluate the creative ability of generative AI models and compare them to human performance.
+Overall, the current state of AI in software development at Snap is one of significant progress and transformation, with the company leveraging AI to drive efficiency, productivity, and cost savings, while also raising important questions about the role of human oversight and product quality in the development process.
 
-Some key findings from these studies include:
-* Generative AI can beat the average human on certain creativity tests, with some models achieving higher scores than humans on divergent thinking assessments.
-* The creative ability of generative AI models can be measured using a variety of methods, including the Alternate Uses test and the OSWorld-V benchmark.
-* The use of a "generate-and-select" approach can help generative AI models surpass the level of human creativity, with some studies showing that this approach can lead to more creative and innovative outputs.
+**The impact of AI code generation on traditional engineering teams is a significant reduction in the need for large teams, with AI agents already generating over 65% of new code for companies like Snap.** 
+This shift towards AI-generated code is driven by the ability of AI agents to write code, design interfaces, deploy infrastructure, run marketing campaigns, and handle customer support autonomously. As a result, companies are restructuring to assign work to smaller, highly focused teams while increasing AI agent capabilities.
 
-The implications of these findings are significant, with potential applications in a variety of fields, including:
-1. **Art and design**: Generative AI models can be used to generate new and innovative ideas, with potential applications in fields such as art, music, and design.
-2. **Science and research**: Generative AI models can be used to assist scientists in making more informed decisions and generating plausible research designs.
-3. **Industry and business**: Generative AI models can be used to support a wide range of human tasks, including idea generation, problem-solving, and decision-making.
+The benefits of AI code generation for traditional engineering teams include:
+* Increased efficiency and productivity, with AI agents responding to over 1 million queries per month
+* Reduced need for large engineering teams, resulting in significant cost savings, with Snap expecting over $500 million in annualized cost savings
+* Enhanced performance, with smaller teams driving progress and achieving the same output as larger teams
 
-However, there are also limitations and challenges associated with the use of generative AI models, including:
-* **Hallucinations and nonsense**: Generative AI models can sometimes produce outputs that are not helpful or secure, highlighting the need for human oversight and evaluation.
-* **Lack of human know-how**: While generative AI models can be highly creative, they often lack the human know-how and expertise that is necessary to evaluate and refine their outputs.
-* **Need for human-driven creative stages**: Leaders should structure workflows so that humans drive the earliest creative stages, while AI assists with scaling, editing, or selection, to ensure that the most innovative and effective solutions are developed.
+However, the impact of AI code generation on traditional engineering teams also raises concerns about:
+* Product quality and human oversight, as AI agents take on more responsibilities
+* Job security, with companies like Snap laying off 1,000 people due to AI-generated code
+* The need for developers to adapt to new roles and responsibilities, as AI agents handle tasks such as code generation and customer support
 
-**Generative AI can now outperform the average human on certain creativity tests, but its ability to truly surpass human creativity is still a subject of debate.** 
-The recent study comparing over 100,000 people with today's most advanced AI systems has delivered a surprising result, highlighting the potential of generative AI in creative tasks. Key findings include:
-* Generative AI can beat the average human on certain creativity tests
-* The "generate-and-select" approach is necessary for GPT-3 to surpass human creativity levels
-* Several AI chatbots, including GPT-4o, achieve creativity levels comparable to humans
+The integration of AI tools into company workflows is also driving changes in resource allocation, with companies reallocating resources away from software engineering to distribution and other areas. For example, Snap's CEO Evan Spiegel noted that AI tools like Claude are now deeply integrated into the company's workflow, and that more than two-thirds of new code is being written by AI agents.
 
-The implications of generative AI outperforming humans in creative tasks are significant, with potential applications in various industries, such as:
-1. Revolutionizing industries through creative thinking and problem-solving
-2. Stimulating creative thinking and solving complex challenges
-3. Assisting with scaling, editing, or selection in creative workflows
+The implications of AI code generation for traditional engineering teams are far-reaching, and companies must consider the potential impact on their operations and workforce. As AI agents continue to generate more code and take on more responsibilities, companies must adapt to the changing landscape and find new ways to utilize their engineering teams. This may involve retraining developers to work alongside AI agents, or finding new areas of focus for engineering teams, such as distribution and product development.
 
-However, researchers also note that **there is no substitute for good old human know-how**, as AI-generated code and suggestions may not always be helpful or secure. 
-* AI hallucinates nonsense, and its suggestions may not always be reliable
-* Human-driven creative stages are still essential, with AI assisting in later stages
-* The use of modular cognitive systems, comprising multiple models, is becoming increasingly important in generative AI development
+## What are the Implications of AI-Generated Code on Product Quality and Human Oversight?
+**The increasing use of AI-generated code, with companies like Snap reporting over 65% of their new code being generated by AI, raises significant implications for product quality and human oversight, as it may lead to reduced human involvement and potential biases in code development.**
+The use of AI-generated code can bring about numerous benefits, including increased efficiency and reduced costs, but it also poses challenges in terms of product quality and human oversight. Key concerns include:
+* Reduced human involvement in code development and review
+* Potential biases in AI-generated code
+* Dependence on AI tools for code maintenance and updates
 
-The study's findings have significant implications for researchers, policymakers, and practitioners interested in bolstering creativity. 
-* The use of generative AI in early ideation can lead to converging outputs
-* Leaders should structure workflows to leverage human creativity in early stages, with AI assisting in later stages
-* The development of modular cognitive systems is crucial for advancing generative AI capabilities
+The implications of AI-generated code on product quality are multifaceted, with potential risks including:
+1. **Lack of human judgment**: AI-generated code may not always be able to replicate the nuances and complexities of human decision-making.
+2. **Increased vulnerability to errors**: AI-generated code may be more prone to errors or bugs, which can have significant consequences for product quality.
+3. **Dependence on AI tools**: Companies may become overly reliant on AI tools for code development, which can lead to a loss of human expertise and oversight.
 
-In conclusion, **generative AI has made significant strides in creative tasks, but its ability to truly outperform humans is still a subject of debate**. 
-* Further research is needed to fully understand the potential and limitations of generative AI in creative tasks
-* The development of more advanced AI models and systems will continue to shape the creative landscape
-* Human-AI collaboration will be essential in unlocking the full potential of generative AI in creative tasks.
+To mitigate these risks, companies can implement strategies such as:
+* **Human review and testing**: Implementing rigorous human review and testing processes to ensure that AI-generated code meets quality and safety standards.
+* **AI transparency and explainability**: Developing AI tools that provide transparent and explainable code generation processes, allowing humans to understand and review the code.
+* **Hybrid development models**: Adopting hybrid development models that combine the benefits of AI-generated code with human oversight and review.
 
-**Generative AI has the potential to revolutionize various industries, stimulate creative thinking, and solve complex challenges, with applications in fields such as science, technology, and art.** 
-The potential applications of generative AI are vast, with benefits including accelerated scientific breakthroughs, improved code writing, and enhanced creative thinking. 
-Some of the key areas where generative AI can make an impact include:
-* Scientific research, where generative AI can assist scientists in making more informed decisions and generate plausible research designs
-* Code writing, where generative AI can take the lead in writing code and accepting suggestions, a method known as "vibe coding"
-* Art and design, where generative AI can stimulate creative thinking and solve complex challenges
+The use of AI-generated code also raises questions about the role of human developers and the need for human oversight, with potential consequences including:
+* **Job displacement**: The increasing use of AI-generated code may lead to job displacement for human developers.
+* **Changes in skill sets**: Human developers may need to acquire new skills to work effectively with AI-generated code.
+* **Evolution of development processes**: Companies may need to evolve their development processes to incorporate AI-generated code and ensure effective human oversight.
 
-**The benefits of generative AI can be seen in its ability to outperform humans on certain creativity tests, with a massive new study comparing over 100,000 people with today's most advanced AI systems delivering a surprising result.** 
-The study found that generative AI can now beat the average human on established measures of creativity, with implications for industries such as technology and art. 
-Some of the key benefits of generative AI include:
-1. Accelerated scientific breakthroughs
-2. Improved code writing
-3. Enhanced creative thinking
-4. Ability to solve complex challenges
+## How Will the Increased Use of AI Agents Change the Way Companies Allocate Resources?
+**The increased use of AI agents will significantly change the way companies allocate resources, with a shift towards smaller, highly focused teams and a greater emphasis on AI-driven automation, leading to reduced labor costs and increased efficiency.**
+The use of AI agents is already transforming the way companies operate, with over 65% of new code being generated by AI tools in some cases. This has led to a reduction in the need for large engineering teams, with companies like Snap assigning work to smaller teams while increasing AI agent capabilities. As a result, companies are expected to reallocate resources away from areas like software engineering and towards distribution and growth.
 
-**The future of generative AI is likely to involve modular cognitive systems, with multiple models working together to generate, verify, and reason.** 
-This approach is being developed by companies such as Anthropic, OpenAI, and Google DeepMind, with the goal of creating more advanced and sophisticated AI systems. 
-Some of the key features of these systems include:
-* Multiple models working together to generate, verify, and reason
-* Ability to learn and adapt to new situations
-* Enhanced safety and security features to prevent AI hallucinations and ensure reliable outputs
+Key areas where AI agents are expected to have an impact include:
+* Code generation: AI agents are already generating over 65% of new code in some companies, reducing the need for human engineers.
+* Customer support: AI agents are being used to respond to customer queries, reducing the need for human customer support agents.
+* Marketing campaigns: AI agents are being used to run marketing campaigns, reducing the need for human marketers.
+* Infrastructure deployment: AI agents are being used to deploy infrastructure, reducing the need for human IT professionals.
 
-**The potential applications of generative AI are not limited to technology and science, but also extend to art and design.** 
-Generative AI can be used to create new and innovative art forms, such as music, poetry, and visual art. 
-Some of the key benefits of generative AI in art and design include:
-* Ability to stimulate creative thinking and solve complex challenges
-* Ability to generate new and innovative ideas
-* Ability to collaborate with humans to create new and exciting art forms
+The benefits of using AI agents include:
+1. **Increased efficiency**: AI agents can automate many tasks, freeing up human resources for more strategic and creative work.
+2. **Reduced labor costs**: With AI agents taking over many tasks, companies can reduce their labor costs and allocate resources more effectively.
+3. **Improved scalability**: AI agents can handle large volumes of work, making it easier for companies to scale their operations.
 
-**Overall, the potential applications and benefits of generative AI are vast and varied, with implications for industries such as science, technology, and art.** 
-As the field of generative AI continues to evolve, we can expect to see new and innovative applications of this technology, with benefits including accelerated scientific breakthroughs, improved code writing, and enhanced creative thinking. 
-Some of the key areas to watch in the future of generative AI include:
-* Development of modular cognitive systems
-* Increased use of generative AI in art and design
-* Further research into the potential benefits and limitations of generative AI.
+However, the increased use of AI agents also raises questions about product quality and human oversight. As companies rely more heavily on AI agents, they will need to ensure that they have adequate systems in place to monitor and control the output of these agents. This may include:
+* Implementing quality control checks to ensure that AI-generated code meets company standards.
+* Providing training and support for human employees to work effectively with AI agents.
+* Establishing clear guidelines and protocols for the use of AI agents in different areas of the business. 
 
-**The increasing capabilities of generative AI will significantly impact human roles and responsibilities, as it can now outperform the average human on certain creativity tests and is being used to support a wide range of human tasks.** 
-As generative AI continues to advance, it is likely to augment human capabilities, freeing up time for more strategic and creative work. Key areas where generative AI is expected to have an impact include:
-* Creative industries, such as writing, art, and design
-* Scientific research, where AI can generate plausible research designs and assist scientists in making more informed decisions
-* Coding and software development, where AI can take the lead in writing code and accepting suggestions.
+In conclusion, the increased use of AI agents will have a significant impact on the way companies allocate resources, with a shift towards smaller, highly focused teams and a greater emphasis on AI-driven automation. As companies like Snap have already demonstrated, the use of AI agents can lead to significant efficiency gains and cost savings, but it also requires careful planning and management to ensure that the benefits are realized while minimizing the risks. With the right approach, companies can harness the power of AI agents to drive growth, innovation, and success.
 
-The impact of generative AI on human roles and responsibilities will be significant, with some tasks being automated and others being augmented by AI. 
-For example, a study involving over 100,000 human participants and the world’s leading generative AI models found that generative AI can now outperform the average human on established measures of creativity. 
-This has implications for industries such as writing, art, and design, where human creativity has traditionally been the primary driver of innovation.
+## Can Autonomous Systems Fully Replace Human Developers in the Future?
+**Autonomous systems are unlikely to fully replace human developers in the future, but they will significantly augment their capabilities and change the way development teams work.** The recent announcement by Snap that AI agents are generating over 65% of its new code is a testament to the rapid progress of AI tools in software development. This shift is expected to lead to a reduction in the need for large engineering teams, with smaller, highly focused teams working alongside AI agents to drive progress and enhance performance.
 
-To maximize the benefits of generative AI, humans will need to work alongside AI systems, using their unique skills and abilities to drive the earliest creative stages of projects, while AI assists with scaling, editing, or selection. 
-Some key strategies for effective human-AI collaboration include:
-1. Structuring workflows to leverage human creativity and AI capabilities
-2. Using AI to generate ideas and then selecting and refining the best ones
-3. Implementing a "generate-and-select" approach to maximize the potential of both human and AI creativity.
+The benefits of autonomous systems in software development include:
+* Increased efficiency and productivity, with AI agents able to generate high-quality code quickly and accurately
+* Improved consistency and reliability, with AI agents able to follow established guidelines and best practices
+* Enhanced scalability, with AI agents able to handle large volumes of code and data with ease
 
-As generative AI continues to evolve, it is likely to have a profound impact on human roles and responsibilities, driving innovation and growth in a wide range of industries. 
-However, it is also important to recognize the limitations of AI and the need for human oversight and judgment, particularly in areas such as coding and software development, where AI-generated code may not always be secure or reliable. 
-By understanding the strengths and weaknesses of both human and AI capabilities, we can harness the power of generative AI to drive progress and innovation, while also ensuring that humans remain at the forefront of creative decision-making. 
+However, there are also concerns about the potential limitations and risks of autonomous systems in software development, including:
+* Product quality and human oversight, with the potential for AI-generated code to contain errors or vulnerabilities
+* Job displacement and changes to the role of human developers, with the potential for significant disruption to the industry
+* Dependence on AI tools and the potential for vendor lock-in, with the potential for companies to become reliant on specific AI tools or platforms
 
-The future of work will likely involve a combination of human and AI capabilities, with each playing to their respective strengths. 
-For example, humans will drive the earliest creative stages of projects, while AI will assist with scaling, editing, or selection. 
-This collaboration will enable the creation of new and innovative products, services, and experiences that were previously impossible to achieve. 
-Ultimately, the increasing capabilities of generative AI will require humans to adapt and evolve, developing new skills and strategies to maximize the potential of this powerful technology.
+The use of autonomous systems in software development is not a new trend, but recent advances in AI have accelerated the pace of change. Companies like Snap are already seeing significant benefits from the use of AI tools, including reduced costs and improved efficiency. As the technology continues to evolve, we can expect to see even more widespread adoption of autonomous systems in software development.
 
-**The future of generative AI in surpassing human creativity lies in the development of modular cognitive systems, which can generate, verify, and reason about creative outputs, potentially leading to breakthroughs in various fields.** 
-The development of these systems is being pursued by leading AI research labs, including Anthropic, OpenAI, and Google DeepMind. Recent studies have shown that generative AI can outperform the average human on certain creativity tests, with one study involving over 100,000 human participants and the world's leading generative AI models.
+Some of the key drivers of this trend include:
+1. Advances in AI and machine learning, with the development of more sophisticated and capable AI tools
+2. Increasing demand for digital transformation and software development, with companies looking to leverage technology to drive business growth and innovation
+3. Need for improved efficiency and productivity, with companies looking to reduce costs and improve time-to-market for software development projects
 
-Key challenges for generative AI in surpassing human creativity include:
-* Ensuring the safety and reliability of AI-generated creative outputs
-* Addressing the issue of AI "hallucinations," where the model generates nonsensical or unhelpful suggestions
-* Developing methods for human-AI collaboration, such as "vibe coding," where humans work alongside AI models to generate creative outputs. 
-Researchers are exploring various approaches to address these challenges, including the use of multi-component foundation systems and the development of more advanced evaluation metrics.
+As autonomous systems become more prevalent in software development, we can expect to see significant changes to the way development teams work. Human developers will need to adapt to new roles and responsibilities, working alongside AI agents to drive progress and enhance performance. While there are risks and challenges associated with this trend, the potential benefits are significant, and companies that embrace autonomous systems in software development are likely to see significant advantages in terms of efficiency, productivity, and innovation.
 
-The potential applications of generative AI in surpassing human creativity are vast, with possible uses in fields such as:
-1. Scientific research, where AI can assist in generating plausible research designs and making informed decisions
-2. Art and design, where AI can generate novel and innovative creative outputs
-3. Writing and content creation, where AI can assist in generating ideas and editing content. 
-However, there are also concerns about the potential risks and limitations of relying on generative AI for creative tasks, including the potential for AI to stifle human creativity and the need for careful evaluation and validation of AI-generated outputs.
+## What are the Potential Cost Savings and Efficiency Gains of Implementing AI-Driven Software Development?
+**The implementation of AI-driven software development can lead to significant cost savings and efficiency gains, with companies like Snap already generating over 65% of their new code using AI tools, resulting in estimated annualized cost savings of over $500 million.** This shift towards AI-driven development is driven by the ability of AI agents to automate tasks such as code generation, deployment, and testing, allowing companies to reduce their reliance on large engineering teams. As a result, companies can reallocate resources to focus on higher-value tasks such as distribution and growth.
 
-Recent studies have highlighted the importance of structuring workflows to allow humans to drive the earliest creative stages, while AI assists with scaling, editing, or selection. For example, a study published in October 2025 found that when AI is used in early ideation, outputs converge, and human-driven creativity is essential for generating novel and innovative ideas. 
-Another study published in January 2026 found that generative AI can now outperform the average human on established measures of creativity, but highlighted the need for further research into the potential applications and limitations of generative AI in creative tasks. 
+The benefits of AI-driven software development can be seen in several areas, including:
+* Reduced labor costs: With AI agents generating a significant portion of new code, companies can reduce their need for large engineering teams, leading to significant cost savings.
+* Increased efficiency: AI agents can work around the clock, automating tasks and reducing the time it takes to develop and deploy new software.
+* Improved quality: AI agents can detect and fix errors more quickly and accurately than human developers, leading to higher-quality software.
 
-Overall, the future of generative AI in surpassing human creativity holds much promise, but also requires careful consideration of the potential challenges and limitations. 
-By developing more advanced AI models and evaluating their performance on a range of creative tasks, researchers can unlock the full potential of generative AI and explore new frontiers in human-AI collaboration. 
-As the field continues to evolve, it is likely that we will see significant advancements in the ability of generative AI to surpass human creativity, leading to breakthroughs in various fields and transforming the way we approach creative tasks.
+The use of AI-driven software development is not without its challenges, however, including concerns about product quality and human oversight. As companies like Snap continue to push the boundaries of what is possible with AI-driven development, they must also ensure that they have adequate safeguards in place to ensure that the software developed is of high quality and meets the needs of users. Some of the key considerations for companies implementing AI-driven software development include:
+* Ensuring that AI agents are properly trained and validated to ensure that they are generating high-quality code.
+* Implementing adequate testing and quality assurance processes to ensure that software developed using AI agents meets the required standards.
+* Providing ongoing training and support for human developers to ensure that they can work effectively with AI agents and provide adequate oversight.
+
+As the use of AI-driven software development continues to grow, it is likely that we will see significant changes in the way that companies approach software development, with a greater emphasis on automation, efficiency, and quality. With the potential for significant cost savings and efficiency gains, companies that are able to successfully implement AI-driven software development are likely to be at the forefront of this trend, and will be well-positioned to take advantage of the opportunities that it presents. The key statistics that support this trend include:
+1. Over 65% of Snap's new code is now generated using AI tools.
+2. Estimated annualized cost savings of over $500 million.
+3. AI agents are responding to over 1 million queries per month, demonstrating their ability to automate tasks and improve efficiency.
