@@ -1,112 +1,115 @@
-![Featured Image](https://image.pollinations.ai/prompt/Neon-molecules-swirl-amidst-AI-driven-pharmaceutical-cosmos.?width=1280&height=720&nologo=true&seed=224)
+![Featured Image](https://image.pollinations.ai/prompt/Neon-molecules-swirl-amidst-AI-driven-pharmaceutical-cosmos.?width=1280&height=720&nologo=true&seed=327)
 
-# Revolutionizing the Future of Pharmaceuticals: How AI-Accelerated Drug Discovery is Projected to Reach $28.63 Billion by 2034
+# Revolutionizing Drug Discovery: How AI is Transforming the $28.63 Billion Pharmaceutical Industry by 2034
 
-> * The AI in drug discovery market is expected to reach nearly USD 16.52 billion by 2034, growing at a CAGR of 10.10% from 2025, driven by the use of deep learning, predictive modeling, and explainable AI.
-* Key applications of AI in drug discovery include optimizing drug design, improving hit identification, accelerating clinical trials, and predictive modeling and simulation.
-* Despite challenges in data acquisition and AI-driven macromolecular drug development, AI has the potential to unlock billions of dollars in value and transform the pharmaceutical industry, with companies like Isomorphic Labs leading the way in the development of new medicines.
+> * The pharmaceutical industry is being revolutionized by AI, which is accelerating drug discovery timelines and reducing costs by predicting molecule interactions and optimizing drug design.
+* AI is expected to grow significantly in the pharmaceutical market, reaching $28.63 billion by 2034, with a compound annual growth rate (CAGR) of 27%, and driving innovation in areas such as small molecule discovery and patient-focused insights.
+* Despite challenges around data quality and regulation, AI has the potential to transform the drug discovery process, enabling the development of personalized medicines and improving outcomes across the healthcare ecosystem.
 
 
 
-## What is the Current State of AI in Drug Discovery?
-**The current state of AI in drug discovery is one of rapid growth and transformation, with the global market expected to reach nearly USD 16.52 billion by 2034, increasing from USD 6.93 billion in 2025.** The integration of AI into the drug discovery pipeline is redefining pharmaceutical research by enhancing efficiency, predictive accuracy, and innovation. Key drivers of this growth include the use of deep learning, predictive modeling, and explainable AI (XAI) to accelerate drug discovery and development.
+## What is the Current State of Drug Discovery and How Can AI Improve It?
+**The current state of drug discovery is being revolutionized by AI, which is accelerating timelines and reducing costs by predicting molecule interactions and optimizing drug design.** The pharmaceutical industry has historically suffered from long development timelines, steep costs, and high failure rates, with the average time to bring a new therapeutic to market requiring 10-15 years and $2-3 billion. AI is changing this landscape by enabling the analysis of vast datasets to identify potential drug candidates and predict their efficacy and toxicity.
 
-The AI in drug discovery market is accelerating at a healthy CAGR of 10.10% between 2025 and 2034, with some estimates suggesting a CAGR of 12.2% or even 23.22% during this period. The market size is projected to reach USD 8.36 Billion by 2034, with growth driven by AI's expanding role across the drug discovery value chain. Some of the key applications of AI in drug discovery include:
-* Optimizing drug design
-* Improving hit identification
-* Accelerating clinical trials
-* Predictive modeling and simulation
+The use of AI in drug discovery is driven by its ability to:
+* Analyze large datasets to identify patterns and connections that may not be apparent to human researchers
+* Predict molecule interactions and optimize drug design
+* Reduce timelines and costs by up to 50% in preclinical stages
+* Enable the development of personalized medicines tailored to specific patient populations
 
-The use of AI in drug discovery is transforming the pharmaceutical industry, with companies like Isomorphic Labs leading the way in the development of new medicines. AlphaFold 3, for example, creates capabilities for drug design with predictions for molecules commonly used in drugs, such as ligands and antibodies. By combining advanced AI, natural language processing, and expert scientific analysis, companies can transform massive volumes of patent data into actionable insights that reveal where innovation is accelerating.
+The market for AI in pharmaceuticals is expected to grow significantly, with forecasts suggesting it will reach $28.63 billion by 2034, driven by AI's expanding role across the drug discovery value chain. The AI in pharmaceutical market is expected to grow from $1.94 billion in 2025 to $16.49 billion by 2034, with a compound annual growth rate (CAGR) of 27%. Key players in the industry, such as Isomorphic Labs and Schrödinger, are leveraging AI to drive innovation and improve outcomes in drug discovery.
 
-Despite the rapid growth of the AI in drug discovery market, there are still challenges to be addressed, including varying challenges in data acquisition and the maturity of AI-driven macromolecular drug development. However, the potential benefits of AI in drug discovery are significant, with the potential to unlock billions of dollars in value and transform the way companies operate. As the market continues to grow and evolve, we can expect to see new innovations and applications of AI in drug discovery, leading to more efficient, predictive, and successful drug development.
+Some of the key applications of AI in drug discovery include:
+1. Small molecule discovery
+2. Protein-ligand binding affinity prediction
+3. Antibody design and optimization
+4. Patient-focused insights and solutions to drive better outcomes across the healthcare ecosystem
 
-## How is AI Transforming the Pharmaceutical Industry?
-**AI is revolutionizing the pharmaceutical industry by enhancing efficiency, predictive accuracy, and innovation in drug discovery, development, and marketing, with the global AI in drug discovery market expected to reach nearly USD 16.52 billion by 2034.**
-The integration of AI into the drug discovery pipeline is redefining pharmaceutical research, transforming traditional drug development constrained by high costs, long timelines, and low success rates. Key areas of transformation include:
-* Accelerated drug discovery through predictive modeling and deep learning
-* More efficient clinical trials using AI-driven patient selection and data analysis
-* Quicker regulatory approvals with AI-generated reports and submissions
+The use of AI in drug discovery is not without its challenges, including concerns around data quality, regulation, and the potential for hype to outpace reality. However, the potential benefits of AI in drug discovery are significant, and the industry is expected to continue to evolve and grow in the coming years, with AI playing an increasingly important role in the development of new therapeutics. As the industry continues to shift toward data-rich, automation-centric R&D processes, AI is poised to play a key role in driving innovation and improving outcomes in drug discovery.
 
-The market growth is driven by the expanding role of AI across the drug discovery value chain, with the global AI in drug discovery market projected to grow at a CAGR of 10.10% between 2025 and 2034. Major drivers of this growth include:
-1. **AlphaFold integration**: enabling predictions for molecules commonly used in drugs, such as ligands and antibodies
-2. **Generative molecular design**: allowing for the creation of new molecules with desired properties
-3. **ADMET prediction**: predicting the absorption, distribution, metabolism, excretion, and toxicity of potential drugs
+## How Does AI Accelerate the Drug Discovery Process and Reduce Costs?
+**AI accelerates the drug discovery process and reduces costs by predicting molecule interactions, reducing timelines and costs by up to 50% in preclinical stages, and optimizing drug design through machine learning algorithms.** The use of AI in drug discovery has revolutionized the pharmaceutical industry, enabling researchers to analyze vast datasets and identify potential drug candidates more efficiently. Key benefits of AI in drug discovery include:
+* Accelerated timelines: AI can reduce drug development timelines by 50-80% in preclinical stages
+* Cost savings: AI can reduce costs by up to 50% in preclinical stages
+* Improved accuracy: AI can predict molecule interactions and optimize drug design, leading to more effective treatments
 
-AI is also transforming the way pharmaceutical companies operate, with potential applications in:
-* **Ultratargeted marketing materials**: generated in-house using generative AI
-* **Personalized healthcare**: using AI-driven patient data analysis to tailor treatments to individual needs
-* **Regulatory compliance**: using AI to ensure compliance with regulatory requirements and streamline submissions
+The global artificial intelligence in pharmaceutical market is projected to grow to $28.63b by 2034, driven by AI's expanding role across the drug discovery value chain. This growth is expected to be driven by the increasing adoption of AI technologies, such as machine learning and natural language processing, in the pharmaceutical industry. Some of the key applications of AI in drug discovery include:
+1. Small molecule discovery: AI can be used to design and optimize small molecules for use as drugs
+2. Predictive modeling: AI can be used to predict the efficacy and toxicity of potential drug candidates
+3. Drug target identification: AI can be used to identify potential drug targets and predict their likelihood of success
 
-The pharmaceutical industry is expected to see significant revenue growth, with projected revenue of US$102.5M–US$106.5M for the first half of 2026, up 272.7%–287.3% year over year. As AI continues to transform the industry, we can expect to see:
-* **Improved success rates**: in preclinical and clinical trials
-* **Shorter development timelines**: with AI-driven patient selection and data analysis
-* **Increased innovation**: with AI-driven drug discovery and design.
+The market size and growth of AI in pharmaceuticals is significant, with the AI in pharmaceutical market expected to grow from $1.94B in 2025 to $16.49B by 2034, with a CAGR of 27%. This growth is driven by the increasing demand for AI-powered drug discovery solutions, as well as the expanding role of AI across the drug discovery value chain. As of 2025, over 31 AI-discovered drugs are in clinical trials, with the market expected to reach $16.5 billion by 2034.
 
-## What are the Key Drivers of AI Adoption in Pharmaceuticals?
-**The key drivers of AI adoption in pharmaceuticals include the need for increased efficiency, improved predictive accuracy, and enhanced innovation in drug discovery and development, with the global AI in drug discovery market expected to reach nearly USD 16.52 billion by 2034.**
-The adoption of AI in pharmaceuticals is driven by the potential to transform the traditional drug development process, which is often constrained by high costs, long timelines, and low success rates. Some of the key drivers of AI adoption in pharmaceuticals include:
-* The need for improved predictive accuracy in drug discovery and development
-* The potential for enhanced innovation and efficiency in the drug development process
-* The growing demand for personalized healthcare and targeted therapies.
+The use of AI in drug discovery has also led to the development of new business models and partnerships, such as the use of AI-powered platforms for drug discovery and development. For example, companies like Schrödinger and Isomorphic Labs are using AI to accelerate drug discovery and development, and are partnering with pharmaceutical companies to bring new treatments to market. Overall, the use of AI in drug discovery has the potential to revolutionize the pharmaceutical industry, enabling the development of new and more effective treatments, and improving patient outcomes.
 
-The integration of AI into the drug discovery pipeline is expected to accelerate the development of new medicines, with the global AI in drug discovery market projected to grow at a CAGR of 10.10% between 2025 and 2034. The use of AI in pharmaceuticals is also expected to improve clinical trial success rates, with AI-powered predictive modeling and deep learning algorithms able to identify potential drug candidates and optimize clinical trial design. 
-Some of the key applications of AI in pharmaceuticals include:
-1. **Drug discovery**: AI can be used to identify potential drug targets and optimize drug design
-2. **Clinical trials**: AI can be used to optimize clinical trial design and improve patient recruitment
-3. **Personalized healthcare**: AI can be used to develop targeted therapies and improve patient outcomes.
+## What Role Does Machine Learning Play in Identifying Potential Drug Candidates and Predicting Efficacy?
+**Machine learning plays a crucial role in identifying potential drug candidates and predicting efficacy by analyzing vast datasets to optimize drug design, predict molecule interactions, and reduce timelines and costs in preclinical stages.** 
+The use of machine learning algorithms in drug discovery has revolutionized the field, enabling researchers to quickly identify potential drug candidates and predict their efficacy. Key applications of machine learning in drug discovery include:
+* Predicting molecule interactions and binding affinities
+* Identifying potential drug targets and optimizing drug design
+* Analyzing large datasets to identify patterns and trends.
 
-The growth of the AI market in pharmaceuticals is also driven by the increasing availability of large datasets and advances in machine learning algorithms, with the market projected to reach USD 28.63 billion by 2034. As the use of AI in pharmaceuticals continues to evolve, it is likely that we will see significant improvements in the efficiency and effectiveness of the drug development process, with AI-powered technologies able to accelerate the discovery and development of new medicines. 
-The potential of AI to transform the pharmaceutical industry is significant, with the market projected to grow at a CAGR of 23.22% between 2024 and 2034. Some of the key benefits of AI adoption in pharmaceuticals include:
-* Improved efficiency and productivity in the drug development process
-* Enhanced innovation and competitiveness in the pharmaceutical industry
-* Better patient outcomes and improved public health.
+Machine learning algorithms, such as AlphaFold 3, can create capabilities for drug design with predictions for molecules commonly used in drugs, such as ligands and antibodies, that bind to proteins to change how they interact in human health and disease. 
+The global artificial intelligence in pharmaceutical market is projected to grow to $28.63 billion by 2034, driven by AI's expanding role across the drug discovery value chain, with the AI in pharmaceutical market expected to grow from $1.94 billion in 2025 to $16.49 billion by 2034, with a CAGR of 27%.
 
-## How is AI Accelerating the Drug Discovery Process?
-**AI is transforming the drug discovery process by optimizing drug design, improving hit identification, and accelerating clinical trials, making it a more efficient, predictive, and successful endeavor.** The traditional process of developing a new medicine is complex and time-consuming, involving identifying a biological target associated with a disease. AI is changing this by leveraging advanced technologies such as AlphaFold, generative molecular design, and ADMET prediction. Key benefits of AI in drug discovery include:
-* Improved accuracy and efficiency in identifying potential drug candidates
-* Enhanced predictive capabilities for clinical trials
-* Increased speed in bringing new medicines to market
+The use of machine learning in drug discovery has several benefits, including:
+1. Reduced timelines and costs: Machine learning can reduce drug development timelines by 50-80% in preclinical stages.
+2. Improved accuracy: Machine learning algorithms can analyze large datasets to identify patterns and trends, improving the accuracy of predictions.
+3. Increased efficiency: Machine learning can automate many tasks in the drug discovery process, freeing up researchers to focus on higher-level tasks.
 
-The integration of AI into the drug discovery pipeline is redefining pharmaceutical research, enhancing efficiency, predictive accuracy, and innovation. According to recent market research, the global AI in drug discovery market is projected to reach nearly USD 16.52 billion by 2034, growing at a CAGR of 10.10% between 2025 and 2034. This growth is driven by the expanding role of AI across the drug discovery value chain, including:
-1. **AlphaFold integration**: enabling predictions for molecules commonly used in drugs
-2. **Generative molecular design**: allowing for the creation of new drug candidates
-3. **ADMET prediction**: improving the prediction of drug absorption, distribution, metabolism, excretion, and toxicity
+The market size and growth of AI in pharmaceuticals is significant, with the AI in drug discovery market valued at $6.93 billion in 2025 and expected to reach $16.52 billion by 2034 at a CAGR of 10.10%. 
+As of 2025, over 31 AI-discovered drugs are in clinical trials, with the market expected to reach $16.5 billion by 2034, driven by the increasing adoption of AI technologies in the pharmaceutical industry. 
+The future of machine learning in drug discovery looks promising, with potential applications in areas such as vaccinology and personalized medicine, and the evolving startup landscape is expected to drive innovation and growth in the field.
 
-The use of AI in drug discovery is also being driven by the need for more efficient and effective clinical trials. By leveraging AI-powered tools, pharmaceutical companies can optimize clinical trial design, patient recruitment, and data analysis, leading to faster and more accurate results. As the AI market in pharmaceuticals continues to grow, it is expected to reach $16.49 billion by 2034, driven by the adoption of AI in drug discovery, clinical trials, personalized healthcare, and more. With the potential to unlock billions of dollars in value, AI is poised to revolutionize the pharmaceutical industry, enabling the development of new and innovative medicines that can improve human health and disease outcomes.
+## Can AI Really Replace Traditional Sales and Marketing Teams in the Pharmaceutical Industry?
+**AI is unlikely to completely replace traditional sales and marketing teams in the pharmaceutical industry, but it will significantly augment their capabilities and transform the way they operate.** The use of AI in pharmaceuticals is revolutionizing drug discovery, accelerating timelines, and reducing costs, with the global AI in pharmaceutical market projected to grow to $28.63 billion by 2034. This growth is driven by AI's expanding role across the drug discovery value chain, including predicting molecule interactions and optimizing drug design.
 
-**The global AI in drug discovery market is projected to reach approximately USD 16.52 billion by 2034, growing at a CAGR of 10.10% to 23.22% between 2024 and 2034.** The market size and growth of AI in drug discovery are significant, with various estimates suggesting a substantial increase in the coming years. According to recent reports, the market was valued at USD 4.46 billion in 2025 and is expected to reach USD 12.56 billion by 2034, with a CAGR of approximately 12.2%.
+Key benefits of AI in pharmaceutical sales and marketing include:
+* Enhanced customer engagement through personalized messaging and targeted marketing
+* Improved sales forecasting and pipeline management using machine learning algorithms
+* Increased efficiency in data analysis and insights generation, enabling data-driven decision-making
+* Automation of routine tasks, freeing up human resources for strategic and creative work
 
-The growth of the AI in drug discovery market can be attributed to several factors, including:
-* Increasing adoption of AI technologies in pharmaceutical research
-* Rising demand for personalized medicine and targeted therapies
-* Growing need for efficient and cost-effective drug discovery processes
-* Expanding role of AI in drug design, clinical trials, and regulatory approvals
+The pharmaceutical industry is expected to increase AI spending significantly in the next few years, with some reports predicting over $208 billion in AI spending by 2030. This investment will drive the development of new AI-powered tools and platforms for sales and marketing teams, such as AI-driven content creation, social media monitoring, and customer service chatbots. For example, AI can analyze vast datasets to identify potential drug candidates, predict their efficacy and toxicity, and optimize drug design, as seen in the use of AlphaFold 3 for drug design.
 
-The market is expected to be driven by the integration of AI technologies, such as deep learning, predictive modeling, and explainable AI (XAI), which enhance efficiency, predictive accuracy, and innovation in pharmaceutical research. Additionally, the use of AI in drug discovery is transforming the way companies operate, potentially unlocking billions of dollars in value.
+The future of AI in pharmaceutical sales and marketing will be shaped by several factors, including:
+1. Advances in machine learning and natural language processing
+2. Increasing availability of high-quality data and analytics
+3. Growing demand for personalized medicine and patient-centric marketing
+4. Evolving regulatory frameworks and industry standards for AI adoption. As the industry continues to evolve, it is likely that AI will become an integral part of pharmaceutical sales and marketing teams, enabling them to work more efficiently, effectively, and innovatively.
 
-Some notable projections for the AI in drug discovery market include:
-1. USD 8.36 Billion by 2034, growing at a 17.4% CAGR
-2. USD 12.56 billion by 2034, with a CAGR of approximately 12.2%
-3. USD 16.52 billion by 2034, increasing from USD 6.93 billion in 2025, with a CAGR of 10.10%
-4. USD 133.92 billion by 2034, growing at a CAGR of 23.22% between 2024 and 2034
+In terms of market size and growth, the AI in pharmaceutical market is expected to grow from $1.94 billion in 2025 to $16.49 billion by 2034, with a compound annual growth rate (CAGR) of 27%. This growth will be driven by the increasing adoption of AI in drug discovery, clinical trials, and marketing, as well as the rising demand for personalized medicine and patient-centric healthcare. As the pharmaceutical industry continues to invest in AI, we can expect to see significant innovations and advancements in the field, leading to improved healthcare outcomes and more efficient drug development processes.
 
-These projections indicate a significant growth potential for the AI in drug discovery market, driven by the increasing adoption of AI technologies and the need for efficient and cost-effective drug discovery processes. As the market continues to evolve, it is expected to have a profound impact on the pharmaceutical industry, transforming the way companies operate and potentially unlocking new treatments and therapies.
+**The global artificial intelligence in pharmaceutical market is projected to grow to $28.63 billion by 2034, driven by AI's expanding role across the drug discovery value chain.** The market is expected to grow from $1.94 billion in 2025 to $16.49 billion by 2034, with a compound annual growth rate (CAGR) of 27%. This growth is driven by the increasing adoption of AI in drug discovery, which can accelerate timelines and reduce costs by up to 50% in preclinical stages.
 
-## What Does the Future Hold for AI-Accelerated Drug Discovery and Development?
-**The future of AI-accelerated drug discovery and development holds tremendous promise, with the global market expected to reach nearly USD 16.52 billion by 2034, growing at a CAGR of 10.10% between 2025 and 2034.** The integration of AI in drug discovery is transforming the pharmaceutical industry by enhancing efficiency, predictive accuracy, and innovation. Key drivers of this growth include the increasing adoption of AI technologies, such as deep learning and predictive modeling, to accelerate drug discovery and development.
+The AI in pharmaceutical market can be broken down into several segments, including:
+* AI in drug discovery, which is projected to reach $12.56 billion by 2034, up from $4.46 billion in 2025
+* AI in clinical trials, which is expected to grow at a CAGR of 12.2% from 2025 to 2034
+* AI in pharmaceutical manufacturing, which is expected to grow at a CAGR of 10.10% from 2025 to 2034. The market size and growth can be attributed to the increasing use of AI in various applications, including small molecule discovery, vaccinology, and regulatory shifts.
 
-The AI in drug discovery market is projected to experience significant growth, with estimates suggesting it will reach USD 8.36 Billion by 2034, growing at a 17.4% CAGR. This growth is driven by the expanding role of AI across the drug discovery value chain, including:
-* AlphaFold integration
-* Generative molecular design
-* ADMET prediction
-* Pharmaceutical partnerships
-* Regional dynamics
+The growth of the AI in pharmaceutical market is driven by several factors, including:
+1. Increasing adoption of AI in drug discovery
+2. Growing demand for personalized medicine
+3. Rising need for cost-effective and efficient drug development processes. Additionally, the use of AI in pharmaceuticals can reduce drug development timelines by 50-80% in preclinical stages, and as of 2025, over 31 AI-discovered drugs are in clinical trials.
 
-The application of AI in drug discovery is expected to improve the efficiency and effectiveness of the drug development process, leading to:
-1. Faster identification of potential drug candidates
-2. More accurate predictions of drug efficacy and safety
-3. Enhanced clinical trial design and execution
-4. Improved regulatory approval processes
+The market is dominated by North America, which accounted for approximately 66% of the market share in 2025. The region is expected to continue to dominate the market due to the presence of a large number of pharmaceutical companies and research institutions. **The U.S. pharmaceutical industry is expected to increase AI spending significantly in the next few years, with some reports suggesting that by 2030, more than $208 billion will be spent on AI in pharma.**
 
-As the AI market in pharmaceuticals continues to grow, it is expected to reach $28.63 billion by 2034, driven by AI's expanding role across the drug discovery value chain. The industry is expected to see significant investments in AI technologies, with revenue projections for the first half of 2026 expected to be US$102.5M–US$106.5M, up 272.7%–287.3% year over year. **The future of AI-accelerated drug discovery and development is poised to revolutionize the pharmaceutical industry, enabling the creation of more effective and targeted treatments for a wide range of diseases.**
+The AI in pharmaceutical market is expected to reach $16.5 billion by 2034, with a CAGR of 10.10%. The market growth can be attributed to the increasing use of AI in various applications, including drug discovery, clinical trials, and pharmaceutical manufacturing. **The global AI pharma market may reach $16.5 billion by 2034, driven by the increasing adoption of AI in pharmaceutical research and development.** Overall, the AI in pharmaceutical market is expected to experience significant growth in the coming years, driven by the increasing adoption of AI in drug discovery and development.
+
+**The increasing adoption of AI in drug discovery will revolutionize the pharmaceutical industry by accelerating timelines, reducing costs, and improving the success rate of new drug development.** 
+The integration of AI in drug discovery is expected to transform the industry, with the global artificial intelligence in pharmaceutical market projected to grow to $28.63 billion by 2034. Key drivers of this growth include the ability of AI to analyze vast datasets, predict molecule interactions, and optimize drug design, resulting in reduced timelines and costs by up to 50% in preclinical stages.
+
+The impact of AI on the pharmaceutical industry can be seen in several areas, including:
+* Accelerated drug discovery: AI can analyze large datasets to identify potential drug candidates and predict their efficacy and toxicity
+* Improved success rates: AI can help optimize drug design, reducing the likelihood of drug failure in clinical trials
+* Reduced costs: AI can automate many tasks in the drug discovery process, reducing the need for manual labor and minimizing costs
+
+The market size and growth of AI in pharmaceuticals is significant, with the AI in drug discovery market valued at $6.93 billion in 2025 and expected to reach $16.52 billion by 2034 at a CAGR of 10.10%. Notable forecasts include:
+1. Fortune BI projects AI in drug discovery to reach $12.56 billion by 2034
+2. The AI in pharmaceutical market is expected to grow from $1.94 billion in 2025 to $16.49 billion by 2034, with a CAGR of 27%
+3. The global AI pharma market may reach $16.5 billion by 2034
+
+The future of the pharmaceutical industry will be shaped by the increasing adoption of AI, with potential implications including:
+* Regulatory shifts, such as the FDA's move to AI-based testing
+* The evolving startup landscape, with new companies emerging to develop and apply AI technologies in drug discovery
+* The potential for AI to transform other areas of the pharmaceutical industry, such as clinical trials and patient engagement.
